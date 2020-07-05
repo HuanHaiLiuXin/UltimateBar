@@ -1,3 +1,6 @@
+**此项目已停止维护**  
+建议使用我的新项目 [UltimateBarX](https://github.com/Zackratos/UltimateBarX)，彻底解决了状态栏和导航栏不能单独设置的问题，功能更强大
+
 # UltimateBar
 透明状态栏导航栏、沉浸式状态栏导航栏的终极解决方案
 
@@ -178,6 +181,8 @@ ultimateBarBuilder().statusDark(false)      // 状态栏灰色模式(Android 6.0
 
 
 ## 更新日志
+### 2020.07.06
+1. 停止维护，开发了新项目 [UltimateBarX](https://github.com/Zackratos/UltimateBarX)
 
 ### v3.1.1 (2018.11.19)
 1.优化添加 StatusBarView 和 NavigationBarView 的流程；<br/>
